@@ -1,4 +1,4 @@
-# Distributed Recommender System with Apache Spark
+# PART B: Distributed Recommender System with Apache Spark
 
 ## Purpose
 This project involves creating a recommender system using Apache Spark, specifically focusing on the efficiency of the system and considering Spark's complexity. The dataset for this implementation is provided in the files `movies.csv`.
